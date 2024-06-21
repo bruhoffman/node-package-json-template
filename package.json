@@ -1,0 +1,12 @@
+{
+  "name": "aula-1-node-package",
+  "version": "1.0.0",
+  "description": "Aula 1 de Node e Package.json",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno",
+  "license": "ISC"
+}
